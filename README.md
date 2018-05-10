@@ -1,8 +1,8 @@
 # Sistem Informasi Data Mahasiswa
-Tugas Pemrograman Web Buat Sistem Informasi Data Mahasiswa
-Nama : Raden Rendi Cipta K.a
-Nim  : 17140023
-Kls  : 17.8A.33
+Tugas Pemrograman Web Buat Sistem Informasi Data Mahasiswa<br /><br />
+Nama : Raden Rendi Cipta K.a<br />
+Nim  : 17140023<br />
+Kls  : 17.8A.33<br />
 <br />
 <br />
 <img src="1.png"><br />
