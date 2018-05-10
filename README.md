@@ -15,10 +15,10 @@ Kls  : 17.8A.33<br />
 2. Tambah Data, Hapus Data Dan Update Data
 3. Tabel Data Mahasiswa Dan Tabel Nilai Mahasiswa
 # Login
-ADMIN
-Username : admin
-Password : admin123
+ADMIN<br />
+Username : admin<br />
+Password : admin123<br />
 
-USER
-Username : dinna
-Password : dinna123
+USER<br />
+Username : dinna<br />
+Password : dinna123<br />
