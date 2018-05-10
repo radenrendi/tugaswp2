@@ -13,4 +13,4 @@ Kls  : 17.8A.33<br />
 # Fitur
 1. Login Data Admin Dan User
 2. Tambah Data, Hapus Data Dan Update Data
-3. Data Mahasiswa Dan Nilai Mahasiswa
+3. Tabel Data Mahasiswa Dan Tabel Nilai Mahasiswa
