@@ -1,6 +1,4 @@
 # Sistem Informasi Data Mahasiswa
-Pemrograman Web Sistem Informasi Data Mahasiswa<br /><br />
-<br />
 <img src="1.png"><br />
 <img src="2.png"><br />
 <img src="3.png"><br />
